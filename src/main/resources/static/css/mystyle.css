@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+.table th{
+    background-color: rgb(34, 155, 119);
+}
+
+button{
+width: 100%;
+}
